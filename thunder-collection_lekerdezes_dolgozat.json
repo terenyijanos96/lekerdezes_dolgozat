@@ -1,0 +1,70 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "lekerdezes_dolgozat",
+    "dateExported": "2024-02-21T18:45:05.011Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "f20eaf3c-ea52-41a4-ac9b-0290b29a5326",
+            "colId": "c8cfb753-255e-401e-b6c6-f1b996a4ccf1",
+            "containerId": "",
+            "name": "elso_feladat",
+            "url": "elso_feladat/1",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-02-21T18:36:49.245Z",
+            "modified": "2024-02-21T18:37:24.391Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "65e91b64-f43f-4287-aca5-b51ccb4c2e81",
+            "colId": "c8cfb753-255e-401e-b6c6-f1b996a4ccf1",
+            "containerId": "",
+            "name": "masodik_feladat",
+            "url": "masodik_feladat",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-02-21T17:24:58.738Z",
+            "modified": "2024-02-21T17:28:19.386Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "basic",
+                "basic": {
+                    "username": "admin@admin.ad",
+                    "password": "admin"
+                }
+            },
+            "tests": []
+        },
+        {
+            "_id": "c5656fb4-2a17-489e-8162-1e32de30b24a",
+            "colId": "c8cfb753-255e-401e-b6c6-f1b996a4ccf1",
+            "containerId": "",
+            "name": "harmadik_feladat",
+            "url": "harmadik_feladat/2",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-02-21T17:43:06.154Z",
+            "modified": "2024-02-21T18:26:59.442Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "basic",
+                "basic": {
+                    "username": "admin@admin.ad",
+                    "password": "admin"
+                }
+            },
+            "tests": []
+        }
+    ],
+    "settings": {
+        "options": {
+            "baseUrl": "localhost:8000/api/"
+        }
+    }
+}
