@@ -1,7 +1,7 @@
 {
     "client": "Thunder Client",
     "collectionName": "lekerdezes_dolgozat",
-    "dateExported": "2024-02-21T18:45:05.011Z",
+    "dateExported": "2024-02-21T19:13:09.619Z",
     "version": "1.1",
     "folders": [],
     "requests": [
@@ -45,11 +45,11 @@
             "colId": "c8cfb753-255e-401e-b6c6-f1b996a4ccf1",
             "containerId": "",
             "name": "harmadik_feladat",
-            "url": "harmadik_feladat/2",
-            "method": "GET",
+            "url": "harmadik_feladat/3",
+            "method": "POST",
             "sortNum": 30000,
             "created": "2024-02-21T17:43:06.154Z",
-            "modified": "2024-02-21T18:26:59.442Z",
+            "modified": "2024-02-21T19:10:40.745Z",
             "headers": [],
             "params": [],
             "auth": {

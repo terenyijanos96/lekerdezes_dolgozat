@@ -29,5 +29,5 @@ Route::get('/elso_feladat/{id}', [ProductTypeController::class, 'elsoFeladat']);
 
 Route::middleware(['auth.basic'])->group(function(){
     Route::get('/masodik_feladat', [BasketController::class, 'feladatKetto']);
-    Route::get('/harmadik_feladat/{item_id}', [BasketController::class, 'feladatHarom']);
+    Route::post('/harmadik_feladat/{item_id}', [BasketController::class, 'feladatHarom']);
 });
